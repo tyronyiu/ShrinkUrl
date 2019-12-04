@@ -1,4 +1,4 @@
-## ShrinkUrl
+## ShrinkUrl 􀍳
 
 This script shrinks copied URL's using the BitLy service via a cURL request and copies
 the output directly to your clipboard. 
